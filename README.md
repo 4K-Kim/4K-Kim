@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @4K-Kim
+- 👀 I’m interested in video game development.
+- 🌱 I’m currently learning C# and Unity.
+- ✨ I'm working on a tower defense game in Unity.
+- 💞️ As I'm still quite new and learning the basics, I’m not looking to collaborate at the moment.
+- 📫
